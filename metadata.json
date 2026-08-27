@@ -1,0 +1,6 @@
+{
+  "name": "VideoHub Player",
+  "description": "Professional modern video streaming online player using YouTube, featuring categorized browsing, playlists, watch history, offline player for authorized media, local video to MP3 converter, 100% 10-Band Web Audio Equalizer studio, and Khmer & English bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
